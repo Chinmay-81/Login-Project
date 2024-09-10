@@ -1,5 +1,5 @@
 # Login Project
- This is a simple project of login and resgister,it will store data in database.
+I created a simple but intresting project on login and resgister with the help of HTML,CSS ,mysql and  Java Servlets.
 
 ## How to run
 ### First create a DataBase (userdb) and table (uinfo) using the below reference:
